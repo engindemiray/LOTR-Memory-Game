@@ -1,4 +1,4 @@
-# LOTR-Memory-Game
+# The Lord of the Rings Memory Game
 
 ## Gameplay
 
