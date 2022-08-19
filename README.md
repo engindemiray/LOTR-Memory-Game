@@ -26,4 +26,4 @@ Bu Yüzüklerin Efendisi temalı bir hafıza oyunudur. Hafıza oyunu, tüm kartl
 <h3>:four: Game over (Oyun bitti): :arrow_down:</h3>
 <p align="center"></p>
 
-![LOTR-Memory-Game-4](https://user-images.githubusercontent.com/91262816/185389270-c951cecb-3235-41b8-bdcd-7b3a04105044.png)
+![LOTR-Memory-Game-4](https://user-images.githubusercontent.com/91262816/185696578-b4dac6c6-808d-4dfa-8f06-a7b69db16060.png)
