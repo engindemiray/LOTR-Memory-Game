@@ -28,7 +28,7 @@ namespace LOTR_Memory_Game
         PictureBox firstbox;
         int firstIndex;
         int paired;
-        int clicks;
+        int moves;
 
         public Form1()
         {
@@ -65,7 +65,7 @@ namespace LOTR_Memory_Game
             {
                 firstbox = Box;
                 firstIndex = indexNo;
-                clicks++;
+                moves++;
             }
 
             else
@@ -83,9 +83,9 @@ namespace LOTR_Memory_Game
 
                     if (paired == 8)
                     {
-                        MessageBox.Show("Congratulations! You Win \n \nClicks: " + clicks);
+                        MessageBox.Show("Congratulations! You Win \n \nMoves: " + moves);
                         paired = 0;
-                        clicks = 0;
+                        moves = 0;
 
                         foreach (Control kontrol in Controls)
                         {
