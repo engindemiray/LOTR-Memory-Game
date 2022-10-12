@@ -6,7 +6,7 @@ This is a memory game themed The Lord of the Rings. Memory game, is a card game 
 
 ## Oynanış
 
-Bu Yüzüklerin Efendisi temalı bir hafıza oyunudur. Hafıza oyunu, tüm kartların bir yüzey üzerine kapalı olarak yerleştirildiği ve her turda iki kartın yüzü yukarı bakacak şekilde çevrildiği bir kart oyunudur. Oyunun amacı, eşleşen kart çiftlerini çevirmektir. İyi Oyunlar...
+Bu Yüzüklerin Efendisi temalı bir hafıza oyunudur. Hafıza oyunu, tüm kartların bir yüzey üzerine kapalı olarak yerleştirildiği ve her turda iki kartın yüzü yukarı bakacak şekilde çevrildiği bir kart oyunudur. Oyunun amacı, eşleşen kart çiftlerini çevirmektir.
 
 <h3>:one: All cards (Tüm kartlar): :arrow_down:</h3>
 <p align="center"></p>
